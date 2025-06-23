@@ -10,7 +10,7 @@ Este projeto faz parte do desafio da DIO (Digital Innovation One) na Trilha de J
 
 O diagrama abaixo mostra a estrutura de interfaces e da classe `Iphone`:
 
-![Diagrama UML](./uml/iphone-uml.png)
+![Diagrama UML](./UML/UML.png)
 
 ## 💻 Tecnologias usadas
 
